@@ -1,0 +1,20 @@
+.vendor-view-footer-approve{
+    justify-content: space-between;
+}
+
+.vendor-view-footer-reject{
+    display: flex;
+    flex-direction: column;
+}
+
+.vendor-view-footer-reject > div{
+    width: 470px;
+}
+.vendor-view-select-date{
+    display: flex;
+}
+
+.vendor-view-select-date label{
+    width: 200px;
+    margin-top: 8px;
+} 
